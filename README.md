@@ -13,7 +13,7 @@ Dataset Name: AmesHousing.csv
 Description: Contains housing-related features (numerical and categorical) used for price prediction and analysis.
 
 🧠 Preprocessing Tasks & Group Contributions
-👤 Member 1: Importing Data & Handling Missing Values
+Hima Bindu Nagendra Gowda: Importing Data & Handling Missing Values
 
 Task Description:
 
@@ -41,7 +41,7 @@ Median & Mode imputation
 
 📌 This step ensures a clean and complete dataset for downstream processing.
 
-👤 Member 2: Scaling Numerical Features
+👤 Rahul Shrikant Devagiri: Scaling Numerical Features
 
 Task Description:
 
@@ -61,7 +61,7 @@ scikit-learn
 
 📌 Scaling ensures that features contribute equally to machine learning models.
 
-👤 Member 3: Handling Noise in Data
+👤 Nidhi Nagaraja Bhangi: Handling Noise in Data
 
 Task Description:
 
@@ -81,7 +81,7 @@ Matplotlib visualization
 
 📌 This step demonstrates how noise can be managed in real-world datasets.
 
-👤 Member 4: Outlier Detection & Treatment
+👤 Kandarp Kiritkumar Patel: Outlier Detection & Treatment
 
 Task Description:
 
@@ -103,7 +103,7 @@ Statistical filtering
 
 📌 Outlier handling improves model robustness and accuracy.
 
-👤 Member 5: Feature Selection
+Zhixiao Yang: Feature Selection
 
 Task Description:
 
